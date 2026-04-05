@@ -50,8 +50,13 @@ source="*auth.log" "Failed password" | rex "Failed password for (?:invalid user 
 
 <img width="1470" height="956" alt="splunkresult_dashboard" src="https://github.com/user-attachments/assets/944555b2-1f29-45c4-8445-904eb3b9ed0c" />
 
-### Extracted Data Table
-![Extracted Data Results](PUT_YOUR_TABLE_IMAGE_LINK_HERE)
+### Extracted All Data 
+<img width="1470" height="956" alt="splunk_result" src="https://github.com/user-attachments/assets/f0bbc4d4-9805-4705-9c46-29bb64e53292" />
+<img width="1470" height="956" alt="splunk_ip_visual" src="https://github.com/user-attachments/assets/0821f33b-62da-4181-a5cb-93901b3ff427" />
+<img width="1470" height="956" alt="splunk_ip_result" src="https://github.com/user-attachments/assets/0eeb6c6f-6907-4e85-a038-94ac9c80f55c" />
+<img width="1470" height="956" alt="splunk_data" src="https://github.com/user-attachments/assets/6a62dc47-5edd-4574-bcf4-b287800f4e41" />
+<img width="1470" height="956" alt="splunk_dashboard" src="https://github.com/user-attachments/assets/786b2643-33f2-4806-b9cb-af2acd9b7dd0" />
+
 
 ## 🔍 Splunk SPL Queries Used
 
